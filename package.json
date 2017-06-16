@@ -1,0 +1,8 @@
+{
+  "name": "sample-http",
+  "version": "0.0.1",
+  "dependencies": {
+    "actions-on-google": "^1.1.1",
+    "express": "^4.15.3"
+  }
+}
